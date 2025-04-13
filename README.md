@@ -31,7 +31,7 @@ The chatbot uses a simple but effective NLP approach:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/clat-exam-assistant.git
+git clone https://github.com/saurabh23011/Clat-chatbot.git
 cd clat-exam-assistant
 ```
 
