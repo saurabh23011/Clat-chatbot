@@ -368,7 +368,7 @@ def main():
                         else:
                             st.session_state.messages.append({"role": "assistant", "content": "I'm sorry, I don't have enough information to answer that question accurately."})
                         
-                        st.experimental_rerun()
+                        st.rerun()
 
 if __name__ == "__main__":
     main()
