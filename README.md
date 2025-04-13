@@ -24,7 +24,7 @@ The chatbot uses a simple but effective NLP approach:
 ## Setup Instructions
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.10 or higher
 - pip (Python package installer)
 
 ### Installation
