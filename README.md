@@ -94,3 +94,8 @@ The chatbot performance can be measured by:
 - Response relevance (cosine similarity score)
 - User satisfaction (feedback mechanism)
 - Coverage of CLAT topics
+
+
+## Trial link is ="https://clat-chatbot-md4k7xtbmmxsyqvaenhcmb.streamlit.app/"
+## interface  is= <img width="1277" alt="Screenshot 2025-04-13 at 8 16 20 AM" src="https://github.com/user-attachments/assets/dbc61418-3d01-4ffc-9d36-c95dea50aa6b" />
+
